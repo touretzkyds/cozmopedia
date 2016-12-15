@@ -1,4 +1,4 @@
-Welcome to Cozmopedia!
+# Welcome to Cozmopedia!
 
 Cozmopedia is a project of Professor David S. Touretzky at Carnegie Mellon University.
 
