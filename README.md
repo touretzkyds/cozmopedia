@@ -4,4 +4,4 @@ Cozmopedia is a project of Professor David S. Touretzky at Carnegie Mellon Unive
 
 Cozmopedia is not affiliated with or authorized by Anki, Inc.
 
-Please click on the Wiki button above to access Cozmopedia. Or click (here)[https://github.com/touretzkyds/cozmopedia/wiki].
+Please click on the Wiki button above to access Cozmopedia. Or click [here](https://github.com/touretzkyds/cozmopedia/wiki).
